@@ -3,9 +3,17 @@ layout: about
 title: about
 logo: "images/author.jpg"
 permalink: "/about/"
---- 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+---
+Hello!
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+My name is Camelia. I am a long time music enthusiast from Durham, North Carolina with a penchant for physical retail.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+I'm currently based in Brooklyn, New York, and I have worked in the music industry since 2012, previously working at Domino Recording Company and Merge Records.
+
+ My goal is to help improve the music experience for music fans, artists, and labels.
+
+ In a time where so much about the music industry is uncertain, it seems more important than ever for teams and individuals working within the music industry to be innovative, collaborative, and efficient.
+
+ xo,
+
+ Camelia

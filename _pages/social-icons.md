@@ -28,38 +28,20 @@ To add a service simply copy and paste it's corresponding code into the `_data/s
   href: "https://YOUR-URL/atom.xml"
 ```
 
-## Google+
-```
-- title: "googleplus"
-  href: "https://plus.google.com/+YOUR-ACCOUNT"
-```
-
-## Facebook
-```
-- title: "facebook"
-  href: "https://facebook.com/YOUR-ACCOUNT"
-```
-
-## Tumblr
-```
-- title: "tumblr"
-  href: "https://YOUR-ACCOUNT.tumblr.com"
-```
-
 ## Twitter
 ```
 - title: "twitter"
-  href: "https://twitter.com/YOUR-ACCOUNT"
+  href: "https://twitter.com/cameliabrennan"
 ```
 
 ## Github
 ```
 - title: "github"
-  href: "https://github.com/YOUR-ACCOUNT"
+  href: "https://github.com/camibrennan"
 ```
 
 ## LinkedIn
 ```
 - title: "linkedin"
-  href: "https://www.linkedin.com/in/YOUR-ACCOUNT"
+  href: "https://www.linkedin.com/in/cameliabrennan"
 ```
